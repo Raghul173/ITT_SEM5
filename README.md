@@ -30,19 +30,6 @@ This repository contains solutions and implementations for the following 10 stru
 
 ---
 
-## 🗂️ Recommended Folder Structure
-Organize your files cleanly inside the repository using this hierarchy:
-```text
-├── 01_Simple_Statements/
-│   └── simple_calc.c
-├── 02_Decision_Making/
-│   └── branch_logic.c
-├── ...
-└── README.md
-```
-
----
-
 ## 🚀 Compilation and Execution
 
 To compile and run any `.c` program using your terminal, use the following steps:
